@@ -1,0 +1,10 @@
+// Types
+
+@for $i from 1 through $amount {
+  .#{$prefix}-fs-#{$i} {
+    font-size: $size * $i+px;
+  }
+  .#{$prefix}-lh-#{$i} {
+    line-height: $size * $i * $line+px;
+  }
+}

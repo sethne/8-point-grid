@@ -1,0 +1,21 @@
+{
+  "name": "8-point-grid",
+  "version": "0.1.0",
+  "description": "The 8 point scss grid system",
+  "scripts": {
+    "dev": "node-sass scss/p8.scss -o dist",
+    "watch": "node-sass --watch scss -o dist",
+    "production": "node-sass --output-style compressed scss/p8.scss -o dist"
+  },
+  "keywords": [
+    "grid",
+    "8pt",
+    "8 point",
+    "point",
+    "scss",
+    "sass"
+  ],
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}

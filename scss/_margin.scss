@@ -1,0 +1,27 @@
+// Margins
+
+@for $i from 1 through $amount {
+  .#{$prefix}-m-#{$i} {
+    margin: $size * $i+px;
+  }
+  .#{$prefix}-mt-#{$i} {
+    margin-top: $size * $i+px;
+  }
+  .#{$prefix}-mr-#{$i} {
+    margin-right: $size * $i+px;
+  }
+  .#{$prefix}-mb-#{$i} {
+    margin-bottom: $size * $i+px;
+  }
+  .#{$prefix}-ml-#{$i} {
+    margin-left: $size * $i+px;
+  }
+  .#{$prefix}-my-#{$i} {
+    margin-top: $size * $i+px;
+    margin-bottom: $size * $i+px;
+  }
+  .#{$prefix}-mx-#{$i} {
+    margin-left: $size * $i+px;
+    margin-right: $size * $i+px;
+  }
+}

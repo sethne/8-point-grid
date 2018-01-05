@@ -1,0 +1,27 @@
+// Paddings
+
+@for $i from 1 through $amount {
+  .#{$prefix}-p-#{$i} {
+    padding: $size * $i+px;
+  }
+  .#{$prefix}-pt-#{$i} {
+    padding-top: $size * $i+px;
+  }
+  .#{$prefix}-pr-#{$i} {
+    padding-right: $size * $i+px;
+  }
+  .#{$prefix}-pb-#{$i} {
+    padding-bottom: $size * $i+px;
+  }
+  .#{$prefix}-pl-#{$i} {
+    padding-left: $size * $i+px;
+  }
+  .#{$prefix}-py-#{$i} {
+    padding-top: $size * $i+px;
+    padding-bottom: $size * $i+px;
+  }
+  .#{$prefix}-px-#{$i} {
+    padding-left: $size * $i+px;
+    padding-right: $size * $i+px;
+  }
+}

@@ -1,0 +1,14 @@
+// Sizes
+
+@for $i from 1 through $amount {
+  .#{$prefix}-w-#{$i} {
+    width: $size * $i+px;
+  }
+  .#{$prefix}-h-#{$i} {
+    height: $size * $i+px;
+  }
+  .#{$prefix}-s-#{$i} {
+    height: $size * $i+px;
+    width: $size * $i+px;
+  }
+}
