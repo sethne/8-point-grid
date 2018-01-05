@@ -15,6 +15,10 @@
     "scss",
     "sass"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethne/8-point-grid.git"
+  },
   "devDependencies": {
     "node-sass": "^4.7.2"
   }
