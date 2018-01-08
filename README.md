@@ -9,6 +9,7 @@ npm install 8-point-grid --save
 
 ### Usage
 Customize [variables](scss/_variables.scss) to your liking.
+
 Include scss in your build or use the compiled css file with the default settings.
 
 ### What is a 8 point grid?
