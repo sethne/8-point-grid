@@ -17,8 +17,6 @@ This repo also contains a sketch-file with an 8 point grid. [Download sketchfile
 
 To nudge a element in sketch 8px, go to `Sketch -> Preferences` and set move objects to 8 in the last input.
 
-![sketch canvas](media/sketch-canvas.png)
-
 ### What is a 8 point grid?
 - https://spec.fm/specifics/8-pt-grid
 - https://blog.prototypr.io/the-8pt-grid-consistent-spacing-in-ui-design-with-sketch-577e4f0fd520
