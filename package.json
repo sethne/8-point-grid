@@ -1,6 +1,6 @@
 {
   "name": "8-point-grid",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "The 8 point scss grid system",
   "scripts": {
     "dev": "node-sass scss/8-point-grid.scss -o dist",
