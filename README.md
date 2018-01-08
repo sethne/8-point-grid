@@ -1,7 +1,7 @@
 # 8-point-grid
 _The 8 point scss grid system._
 
-Customize [variables](scss/_variables.scss) to your liking
+Customize [variables](scss/_variables.scss) to your liking.
 
 ### What is a 8 point grid?
 - https://spec.fm/specifics/8-pt-grid
@@ -10,4 +10,3 @@ Customize [variables](scss/_variables.scss) to your liking
 - https://medium.com/sketch-app-sources/8-point-soft-grids-in-sketch-e8f1d5ca2cd4
 - https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-baseline-grids
 - http://harmony.intuit.com/grid/
-- https://pearsonified.com/typography/
