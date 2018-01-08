@@ -10,10 +10,10 @@ npm install 8-point-grid --save
 ### Usage
 Customize [variables](scss/_variables.scss) to your liking.
 
-Include scss in your build or use the compiled css file with the default settings.
+Include scss in your build or use the [compiled](dist/8-point-grid.css) css file with the default settings.
 
 ### Sketch
-This repo also contains a sketch-file with an 8 point grid. [Download sketchfile](https://github.com/sethne/8-point-grid/raw/master/media/8-point-grid.sketch)
+This repo also contains a Sketch file with an 8 point grid. [Download Sketch file](https://github.com/sethne/8-point-grid/raw/master/media/8-point-grid.sketch)
 
 To nudge a element in sketch 8px, go to `Sketch -> Preferences` and set move objects to 8 in the last input.
 
