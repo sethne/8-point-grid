@@ -1,4 +1,4 @@
-# 8-point-grid
+# ![8-point-grid](media/8-point-grid.png)
 
 > The 8 point scss grid system.
 
