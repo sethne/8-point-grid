@@ -9,6 +9,10 @@ npm install 8-point-grid --save
 
 ### Usage
 Customize [variables](scss/_variables.scss) to your liking.
+- `$prefix` whatever prefix you want, leave this empty if you want -classname
+- `$size` number of pixels you want your grid to be, ofc we use 8 :ok_hand:
+- `$amount` iterations of the size `$size * $amount`
+- `$line` line-height multiplier `line-height: $size * $amount * $line`
 
 Include scss in your build or use the [compiled](dist/8-point-grid.css) css file with the default settings.
 
