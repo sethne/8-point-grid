@@ -1,6 +1,6 @@
 // Paddings
 
-@for $i from 1 through $amount {
+@for $i from 1 through $multiplier {
   .#{$prefix}-p-#{$i} {
     padding: $size * $i+px;
   }

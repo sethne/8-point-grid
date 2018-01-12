@@ -1,6 +1,6 @@
 // Types
 
-@for $i from 1 through $amount {
+@for $i from 1 through $multiplier {
   .#{$prefix}-fs-#{$i} {
     font-size: $size * $i+px;
   }

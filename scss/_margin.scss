@@ -1,6 +1,6 @@
 // Margins
 
-@for $i from 1 through $amount {
+@for $i from 1 through $multiplier {
   .#{$prefix}-m-#{$i} {
     margin: $size * $i+px;
   }

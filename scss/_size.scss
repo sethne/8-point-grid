@@ -1,6 +1,6 @@
 // Sizes
 
-@for $i from 1 through $amount {
+@for $i from 1 through $multiplier {
   .#{$prefix}-w-#{$i} {
     width: $size * $i+px;
   }
